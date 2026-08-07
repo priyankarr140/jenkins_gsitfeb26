@@ -5,7 +5,7 @@ public class LoginTest {
 	@Test
 	void login()
 	{
-		System.out.println("**LOGIN1");
+		System.out.println("**LOGIN12");
 	}
 
 }
